@@ -1,0 +1,2 @@
+1.0f	//speed
+3.0f	//shotspeed
